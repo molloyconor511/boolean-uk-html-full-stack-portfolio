@@ -1,0 +1,79 @@
+* {
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+
+.name {
+    font-style: italic;
+    
+}
+#info, #projects, #past-employers {
+    
+    text-decoration: none;
+    padding: 1rem;
+    float: right;
+    background-color: white;
+    color: aquamarine;
+    border: 0.1rem solid grey;  
+}
+main {
+    background-color: aquamarine;
+    
+}
+    h1 .title-page {
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: xx-large;
+    display: grid;
+    place-content: center;
+    padding-left: 20rem;
+    
+    
+}
+   
+.intro {
+    color: grey;
+    background-color: blueviolet;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: larger;
+}
+.bio {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem;
+}
+.text-1, .text-2, .text-3 {
+    display: inline-block;
+    font-size: 1rem;
+    border: 0.1rem black solid;
+    border-radius: 10%;
+    margin-bottom: 1rem;
+}
+.skills-head {
+    text-align: center;
+
+}
+.skills {
+    text-align: center;
+    line-break: auto;
+}
+.row-1, .row-2, .row-3 {
+    display: inline-block;
+    border: 0.1rem black solid;
+    border-radius: 10%;
+    margin: 1rem;
+    font-size: 0.9rem;
+}
+
+    
+    
+
+
+
